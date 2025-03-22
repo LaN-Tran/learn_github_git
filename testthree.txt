@@ -1,2 +1,4 @@
 My first lesson of connecting my local git repository to github through SSH.
 Add another line to see the effect of option -u in git push.
+Does not see because I specified the remote repository (origin) and the local branch (main). 
+I will try again git push only.
